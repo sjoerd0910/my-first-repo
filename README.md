@@ -6,3 +6,4 @@ dit
 ben
 <br>
 ik
+![Sjoerd Hendriks](sjoerd.jpeg)
