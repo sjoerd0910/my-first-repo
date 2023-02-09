@@ -6,4 +6,7 @@ dit
 ben
 <br>
 ik
+<br>
 <img src="sjoerd.jpeg" alt="Sjoerd Hendriks" width="100">
+
+[website van Zuyd](https://www.zuyd.nl)
