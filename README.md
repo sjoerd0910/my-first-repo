@@ -6,4 +6,4 @@ dit
 ben
 <br>
 ik
-![Sjoerd Hendriks](sjoerd.jpeg)
+<img src="sjoerd.jpeg" alt="Sjoerd Hendriks" width="100">
